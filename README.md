@@ -1,7 +1,7 @@
 # WikiDemo
 Trying out Markdown for a Structural Wiki
 
-## We're trying to see if we can get this working for a good structural manual
+## We're trying to see if we can get this working for a good structural manual inline equation $3+4=7$ blah text blah blah
 
 $$
 E = m * c^2
